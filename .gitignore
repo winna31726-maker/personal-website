@@ -1,0 +1,86 @@
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE & Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.sublime-project
+.sublime-workspace
+*.code-workspace
+
+# Node.js (if using build tools)
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+
+# Build Output
+dist/
+build/
+out/
+
+# Environment Variables
+.env
+.env.local
+.env.*.local
+
+# OS specific
+.AppleDouble
+.LSOverride
+
+# Logs
+*.log
+logs/
+
+# Temporary Files
+temp/
+tmp/
+*.tmp
+
+# Compiled files
+*.pyc
+*.class
+*.o
+
+# Video files (large, store separately or use LFS)
+# videos/*.mp4
+# videos/*.mov
+# videos/*.avi
+
+# Backup files
+*.bak
+*.backup
+*~
+
+# Cache
+.cache/
+cache/
+
+# Editor lock files
+.editorconfig
+.prettierrc
+
+# Mac
+.AppleDouble
+.LSOverride
+._*
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# Linux
+.directory
+
+# Git
+.git/
+.gitmodules
