@@ -1,0 +1,7 @@
+# This file ensures the images folder is tracked by git
+# Add your image files here:
+# - profile.jpg (your profile photo)
+# - aigc-poster.jpg (AIGC section thumbnail)
+# - project-poster.jpg (Projects section thumbnail)
+# - wechat-poster.jpg (WeChat content thumbnail)
+# - hobbies-poster.jpg (Hobbies section thumbnail)
